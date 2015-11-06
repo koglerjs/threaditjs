@@ -105,5 +105,3 @@ threadit.ThreadItemComponent = Ember.Component.extend({
 		}
 	},
 });
-
-# vim: set noexpandtab:
